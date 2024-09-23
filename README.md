@@ -1,1 +1,3 @@
 # pythonsimplegit
+# so...
+# Think of this project as my first steps into the world of coding, so don't be too harsh in your judgment.

@@ -45,8 +45,16 @@ print('num_1=num_1+num == num_1+=num')
 print(num_1)
 print('\n\n\n\n')
 
-print('num = ' + num )
-print('num_1 = ' + num_1 )
 
+#print('num = ' + num )
+#print('num_1 = ' + num_1 )
+
+''''
+def funkcja_kornelka(s):
+
+return s+s
+
+funkcja_kornelka(1)
+'''
 
 
